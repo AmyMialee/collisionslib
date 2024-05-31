@@ -1,5 +1,7 @@
 # Collisions Lib
 
+## This mod is discontinued and likely will not be updated.
+
 Collisions Lib is a small mod which gives all mobs a solid hitbox, similar to boats and shulkers.
 
 There is a flag which can be disabled in order to turn mobs intangible again.
@@ -14,7 +16,7 @@ There is a flag which can be disabled in order to turn mobs intangible again.
     </tr>
     <tr>
         <th>
-            <a href="https://discord.gg/P4dUsxv6An">
+            <a href="https://discord.amymialee.xyz">
                 <img src="https://cdn.discordapp.com/attachments/793182374410059887/924000460292104282/3437c10597c1526c3dbd98c737c2bcae.svg" width="150" height="150">
             </a>
         </th>
